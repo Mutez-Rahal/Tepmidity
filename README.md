@@ -10,9 +10,8 @@ This project prints the data received from the temperature and humidity sensor t
 Follow these steps to set up the project:
 
 1. **Clone the repository:**
-    ```bash
+    ```sh
     git clone https://github.com/Mutez-Rahal/Tepmidity.git
-    cd Tepmidity
     ```
 
 2. **Set up the hardware:**
