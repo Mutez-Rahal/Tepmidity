@@ -12,7 +12,7 @@ Follow these steps to set up the project:
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Mutez-Rahal/Tepmidity.git
-    cd your-repo-name
+    cd Tepmidity
     ```
 
 2. **Set up the hardware:**
